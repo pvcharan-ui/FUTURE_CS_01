@@ -8,3 +8,7 @@
 # sqlmap usage examples will be added when executed
 
 (When you run any command during testing, copy it here with date/time and results)
+Tue 10/21/2025 17:04:05.69 
+docker --version 
+docker run --rm -d -p 3000:3000 --name juice-shop bkimminich/juice-shop 
+docker ps --filter "name=juice-shop" 
