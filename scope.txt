@@ -1,0 +1,14 @@
+
+Scope and rules for testing — FUTURE_CS_01
+
+Target: http://localhost:3000 (OWASP Juice Shop - local Docker)
+Allowed testing: Only the targets listed above. No testing of external/production systems.
+Purpose: Educational testing for Task 1 of Future Interns Cyber Security.
+Testing window: [start date/time] to [end date/time]
+Tester: [Your Name] — Contact: [your.email@example.com]
+
+Notes:
+- Keep all evidence saved under evidence/
+- Do not share sensitive credentials or keys in the repo
+
+

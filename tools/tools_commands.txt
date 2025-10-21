@@ -1,0 +1,10 @@
+# Tools & commands log (append commands you run, date them)
+# Example commands to start the Juice Shop:
+# docker run --rm -p 3000:3000 bkimminich/juice-shop
+
+# Example tool installations (Windows):
+# git --version
+# docker --version
+# sqlmap usage examples will be added when executed
+
+(When you run any command during testing, copy it here with date/time and results)
